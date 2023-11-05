@@ -1,4 +1,4 @@
-function Card() {
+function ScoreBoard() {
 
     return (
       <>
@@ -7,5 +7,5 @@ function Card() {
     )
   }
   
-  export default Card
+  export default ScoreBoard
   
